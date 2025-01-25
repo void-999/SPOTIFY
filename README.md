@@ -2,7 +2,7 @@
 
 
     
-    Project Overview
+ Project Overview
 - This Power BI dashboard provides an in-depth analysis of music streaming data from Spotify. It highlights key metrics like total streams, track records, and artist performance, while also delving into patterns in user engagement and song characteristics. The dashboard is an essential tool for music analysts, record labels, and artists to understand streaming trends and identify top-performing content.
 
       Key Performance Indicators (KPIs)
